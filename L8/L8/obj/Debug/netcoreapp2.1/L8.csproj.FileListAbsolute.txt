@@ -1,0 +1,4 @@
+C:\Users\T450 i5\OneDrive - Tallaght Institute of Technology\ITT Comp Sceince 1st - 4th\4th Year\Enterprise Applications Development 1\L8\L8\obj\Debug\netcoreapp2.1\L8.csprojAssemblyReference.cache
+C:\Users\T450 i5\OneDrive - Tallaght Institute of Technology\ITT Comp Sceince 1st - 4th\4th Year\Enterprise Applications Development 1\L8\L8\obj\Debug\netcoreapp2.1\L8.csproj.CoreCompileInputs.cache
+C:\Users\T450 i5\OneDrive - Tallaght Institute of Technology\ITT Comp Sceince 1st - 4th\4th Year\Enterprise Applications Development 1\L8\L8\obj\Debug\netcoreapp2.1\L8.AssemblyInfoInputs.cache
+C:\Users\T450 i5\OneDrive - Tallaght Institute of Technology\ITT Comp Sceince 1st - 4th\4th Year\Enterprise Applications Development 1\L8\L8\obj\Debug\netcoreapp2.1\L8.AssemblyInfo.cs
